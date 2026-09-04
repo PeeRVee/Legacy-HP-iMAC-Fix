@@ -1,0 +1,7 @@
+## 🛠️ Mac vs. Windows: 5 Things to Know First
+If you just switched from Windows, a few things on a Mac look and act completely differently:
+1. **Command (`⌘`) vs. Control (`Ctrl`):** On a Mac, the **Command** key is your primary modifier for shortcuts (like `Command + C` to copy or `Command + S` to save), not the Control key.
+2. **Spotlight (`Command + Space`):** This is your universal search bar (like the Windows Start Menu search). It finds apps, files, and settings instantly.
+3. **Terminal:** macOS's version of the Windows Command Prompt (`cmd`) or PowerShell. It runs text commands. On the top right of your iMac, there is a magnifying glass. Click it. A little bar called "Spotlight Search" opens. Type the word `Terminal` into this search. You'll see a black square slightly below where you typed. That is the "Terminal" icon. Click the icon, and Terminal will open, where you'll copy and paste some commands below. **NOTE:** Don't erase or try to squeeze anything into a certain area of Terminal. Simply left-click inside the terminal window first to let it know you're there (this is called "focusing the window"); a light blue highlight may appear. Now right-click where there isn't any writing, click **Paste** in the little drop-down menu that shows, and then press **ENTER** on your keyboard.
+4. **DMG Files (`.dmg`):** Instead of Windows `.exe` or `.msi` installers, Mac apps and drivers often download as disk images that you "mount" to open.
+5. **TextEdit:** The Mac equivalent of Notepad—a built-in app for editing plain text or code files.
